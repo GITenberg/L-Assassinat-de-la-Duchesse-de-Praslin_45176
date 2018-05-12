@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '8201'
     url: http://www.gutenberg.org/2009/agents/8201
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45176#L-Assassinat-de-la-Duchesse-de-Praslin
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2014-03-19'
 gutenberg_type: Text
