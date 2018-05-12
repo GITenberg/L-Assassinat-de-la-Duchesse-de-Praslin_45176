@@ -1,0 +1,43 @@
+_repo: L-Assassinat-de-la-Duchesse-de-Praslin_45176
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Pasquier, Étienne-Denis, duc
+    aliases:
+    - Pasquier, Estienne Denis
+    - Pasquier, chancelier (Étienne-Denis)
+    - Pasquier, Etienne-Denis, duc
+    - Pasquier, duc (Étienne-Denis)
+    birthdate: 1767
+    deathdate: 1862
+    gutenberg_agent_id: '47145'
+    url: http://www.gutenberg.org/2009/agents/47145
+covers:
+- cover_type: archival
+  image_path: 45176-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Savine, Albert
+    alias: Savine, Alberto
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '8201'
+    url: http://www.gutenberg.org/2009/agents/8201
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2014-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45176'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Murder) -- France -- History -- 19th century'
+- !lcc 'DC'
+- !lcsh 'Choiseul-Praslin, Fanny, duchesse de, 1807-1847'
+- !lcc 'KJ'
+- !lcsh 'Choiseul-Praslin, Charles Laure Hugues Théobald, duc de, 1805-1847'
+title: L'Assassinat de la Duchesse de Praslin
+url: http://www.gutenberg.org/ebooks/45176
